@@ -43,7 +43,8 @@ namespace Zadanie_1
 
         private void button5_Click(object sender, EventArgs e)
         {
-            
+            Form5 Form5 = new Form5();
+            Form5.ShowDialog();
         }
     }
 }
